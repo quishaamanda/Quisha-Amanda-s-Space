@@ -1,25 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Introduction</title>
-</head>
+# Hi, I'm Quisha! 👋
 
-<body>
-    <h1>Hello, I'm Quisha! 👋</h1>
-    
-    <p>
-        I am a student nurse who is currently learning new skills,
-        including technology and programming.
-    </p>
+Welcome to my GitHub profile!
 
-    <h2>About Me</h2>
-    <ul>
-        <li>🎓 Student Nurse</li>
-        <li>📚 Loves learning new things</li>
-        <li>💻 Beginner in programming</li>
-        <li>✨ Interested in creativity and technology</li>
-    </ul>
+I'm a student nurse with an interest in technology, creativity, and continuous learning. I'm currently exploring programming and building new skills along the way.
 
-    <p>Thank you for visiting my GitHub! 🚀</p>
-</body>
-</html>
+## 🌱 Currently Learning
+- Programming fundamentals
+- Git and GitHub
+- Web development
+
+## 📫 Connect With Me
+Feel free to explore my repositories and follow my learning journey!
+
+⭐ Thanks for visiting my profile!
