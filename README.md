@@ -44,21 +44,21 @@
   <tr>
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>01</b></font></sub></p>
-      <h4><font color="#2B2825">Activity 1</font></h4>
+      <h4><a href="./Activity%201%3A%20Presentation%20Design%20Principles/"><font color="#2B2825">Activity 1</font></a></h4>
       <p><font color="#6B5B4E"><b>Presentation Design Principles</b></font></p>
       <hr color="#E0D5C7" size="1" />
       <p><font color="#554E48">Focuses on fundamental design principles—proper layout, color theory, typography, visual hierarchy, and structured organization to communicate information effectively.</font></p>
     </td>
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>02</b></font></sub></p>
-      <h4><font color="#2B2825">Activity 2</font></h4>
+      <h4><a href="./Activity%202%3A%20Personal%20Branding/"><font color="#2B2825">Activity 2</font></a></h4>
       <p><font color="#6B5B4E"><b>Personal Branding</b></font></p>
       <hr color="#E0D5C7" size="1" />
       <p><font color="#554E48">Explores personal brand identity by evaluating strengths, skills, values, and visual style to build an authentic professional presence.</font></p>
     </td>
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>03</b></font></sub></p>
-      <h4><font color="#2B2825">Activity 3</font></h4>
+     <h4><a href="./Activity%203%3A%20Social%20Media%20Infographics%20%26%20Project%20Documentation/"><font color="#2B2825">Activity 3</font></a></h4>
       <p><font color="#6B5B4E"><b>Social Media Infographics & Project Documentation</b></font></p>
       <hr color="#E0D5C7" size="1" />
       <p><font color="#554E48">Creation of informative, visually engaging social media infographics alongside complete project documentation from initial concept to final execution.</font></p>
