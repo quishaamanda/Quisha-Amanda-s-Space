@@ -57,4 +57,44 @@ Through these activities, I explore clear, visually compelling methods of commun
       <hr />
       <p>A deep dive into visual identity and self-positioning—identifying strengths, values, and visual style to build an authentic professional presence.</p>
     </td>
-    <td width="33
+    <td width="33%" valign="top">
+      <h3>03</h3>
+      <h4>Activity 3</h4>
+      <p><b>Social Media & Documentation</b></p>
+      <hr />
+      <p>Creation of informative, high-impact social media infographics accompanied by full project documentation from design drafts to final execution.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<br />
+
+## ✦ MIDTERMS
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>04</h3>
+      <h4>Midterms Laboratory Exam</h4>
+      <p><em>Practical Application & Design Assessment</em></p>
+      <hr />
+      <p>A comprehensive assessment demonstrating technical mastery, theoretical understanding, and execution of digital design workflows under exam conditions.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<div align="center">
+
+  <p>
+    <sub>Designed with intention by <b>Quisha Amanda Modequillo</b></sub>
+  </p>
+
+</div>
