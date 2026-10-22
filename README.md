@@ -1,31 +1,60 @@
-# Welcome to My Portfolio!
+<div align="center">
 
-## 👋 About Me
+  <p align="center">
+    <sub>✦ ACADEMIC PORTFOLIO ARCHIVE ✦</sub>
+  </p>
 
-Hello! My name is **Quisha Amanda Modequillo**, and I am a student who is passionate about learning, creativity, and digital design. This repository contains a collection of activities that showcase my knowledge and skills in presentation design, personal branding, and creating visual content.
+  <h1>Quisha Amanda Modequillo</h1>
 
-Through these activities, I was able to explore different ways of communicating ideas effectively and creatively using various digital tools and platforms.
+  <p>
+    <b>Digital Design</b> &nbsp;•&nbsp; 
+    <b>Visual Branding</b> &nbsp;•&nbsp; 
+    <b>Content Strategy</b>
+  </p>
+
+  <p>
+    <a href="https://github.com">
+      <img src="https://img.shields.io/badge/Aesthetics-Minimalist-111111?style=for-the-badge&labelColor=F5F5F7" alt="Minimalist">
+    </a>
+    <a href="https://github.com">
+      <img src="https://img.shields.io/badge/Focus-Brand_Identity-111111?style=for-the-badge&labelColor=F5F5F7" alt="Brand Identity">
+    </a>
+  </p>
+
+</div>
+
+<br />
 
 ---
 
-## 📌 Activity 1: Presentation Design Principles
+### ── ✧ About Me
 
-This activity focuses on the fundamental principles of creating effective and visually appealing presentations. It explores the proper use of layout, colors, typography, visuals, and organization to communicate information clearly and effectively.
+> *"Simplicity is the ultimate sophistication."*
 
----
+Hello! I am **Quisha Amanda Modequillo**, a student driven by learning, creativity, and visual design. This repository serves as a curated archive of my academic works, focusing on presentation architecture, personal positioning, and strategic content design.
 
-## 🌟 Activity 2: Personal Branding
-
-This activity focuses on developing my personal brand and identity. It allowed me to identify my strengths, skills, values, and personality while exploring how I can present myself professionally and authentically.
+Through these activities, I explore clear, visually compelling methods of communicating ideas using modern digital tools and design systems.
 
 ---
 
-## 📊 Activity 3: Social Media Infographics & Project Documentation
+<br />
 
-This activity focuses on creating informative and visually engaging social media infographics. It also includes the documentation of the project's process, from planning and designing to developing the final output.
+## ✦ PRELIMS
 
----
-
-## ✨ Conclusion
-
-Thank you for visiting my portfolio!
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01</h3>
+      <h4>Activity 1</h4>
+      <p><b>Presentation Design Principles</b></p>
+      <hr />
+      <p>Explores the fundamental principles of visual communication, focusing on layout architecture, color systems, typography, and clear information hierarchy.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02</h3>
+      <h4>Activity 2</h4>
+      <p><b>Personal Branding</b></p>
+      <hr />
+      <p>A deep dive into visual identity and self-positioning—identifying strengths, values, and visual style to build an authentic professional presence.</p>
+    </td>
+    <td width="33
