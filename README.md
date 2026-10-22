@@ -83,7 +83,8 @@
   <tr>
     <td width="100%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>04</b></font></sub></p>
-     <h4><a href="./midterm%20laboratory%20exam%20with%20sheets.pdf"><font color="#2B2825">Midterms Laboratory Exam</font></a></h4>
+<h4><a href="./CLASS%20EVENT%20PROPOSAL%20WITH%20SHEETS.pdf"><font color="#2B2825">Midterms Laboratory Exam</font></a></h4>
+
       <p><font color="#6B5B4E"><em>Practical Application & Assessment</em></font></p>
       <hr color="#E0D5C7" size="1" />
       <p><font color="#554E48">A comprehensive examination evaluating practical design workflow, technical execution, and synthesized application of digital design concepts.</font></p>
