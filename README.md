@@ -115,4 +115,47 @@
             <p><font face="Georgia, serif" color="#3B4D6B"><b>AI Tools Activity</b></font></p>
             <hr color="#D6DCE5" size="1" />
             <p><font face="Georgia, serif" color="#2B303A">This activity focused on exploring the use of artificial intelligence (AI) tools and understanding the importance of creating clear, detailed, and specific prompts to generate accurate and desirable results.</font></p>
-            <p><font face="Georgia, serif" color="#2B303A">
+            <p><font face="Georgia, serif" color="#2B303A"> I learned that detailed prompts help AI generate better results. Although I missed the activity, I sought guidance from my classmates. I can apply these skills to improve productivity and creativity in my future career.</font></p>
+          </td>
+          <td width="33%" valign="top" bgcolor="#FFFFFF" style="background-color: #FFFFFF; border: 1px solid #E4E7EC;">
+            <p><sub><font face="Georgia, serif" color="#3B4D6B"><b>06</b></font></sub></p>
+            <h4><a href="./Activity%206%3A%20Making%20a%20Website/"><font face="Georgia, serif" color="#1B2A4A">Activity 6</font></a></h4>
+            <p><font face="Georgia, serif" color="#3B4D6B"><b>Making a Website</b></font></p>
+            <hr color="#D6DCE5" size="1" />
+            <p><font face="Georgia, serif" color="#2B303A">This activity involved creating a website that represents and highlights a personal or business brand using AI-powered website development tools. The goal was to develop a visually appealing and functional website that reflects the brand's identity through appropriate colors, typography, layout, and content.</font></p>
+            <p><font face="Georgia, serif" color="#2B303A"> I learned that AI can simplify website creation, but detailed prompts are essential for achieving the desired design. I struggled with Replit, so I switched to Base44, which better suited my needs. I can apply these skills to promote my digital products and potentially increase sales.</font></p>
+          </td>
+          <td width="33%" valign="top" bgcolor="#FFFFFF" style="background-color: #FFFFFF; border: 1px solid #E4E7EC;">
+            <p><sub><font face="Georgia, serif" color="#3B4D6B"><b>07</b></font></sub></p> 
+            <h4><a href="./Activity%207%3A%20Resume%20Generating/"><font face="Georgia, serif" color="#1B2A4A">Activity 7</font></a></h4>
+            <p><font face="Georgia, serif" color="#3B4D6B"><b>Resume Generating</b></font></p>
+            <hr color="#D6DCE5" size="1" />
+            <p><font face="Georgia, serif" color="#2B303A">This activity focused on creating a professional resume using at least two artificial intelligence tools. It aimed to explore how AI can assist in organizing personal information, improving written content, and presenting educational qualifications, skills, and work experiences in a professional format.</font></p>
+            <p><font face="Georgia, serif" color="#2B303A"> Through this activity, I learned how AI tools can help create professional resumes by organizing skills, education, and work experience. However, I realized that AI-generated content must be reviewed to ensure accuracy and authenticity. This activity showed me how AI can support career preparation. After graduation, I plan to use Claude AI to further improve my resume when applying for nursing positions. </font></p>
+          </td>
+        </tr>
+      </table>
+
+      <br />
+
+      <div align="center">
+
+        <p><sub><font face="Georgia, serif" color="#3B4D6B">DESIGN TOOLS & PLATFORMS</font></sub></p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=figma&logoColor=FFFFFF&labelColor=1B2A4A" alt="Figma">
+          <img src="https://img.shields.io/badge/Canva-FFFFFF?style=flat-square&logo=canva&logoColor=FFFFFF&labelColor=1B2A4A" alt="Canva">
+          <img src="https://img.shields.io/badge/Adobe_CC-FFFFFF?style=flat-square&logo=adobe&logoColor=FFFFFF&labelColor=1B2A4A" alt="Adobe CC">
+        </p>
+
+        <br />
+
+        <p>
+          <sub><font face="Georgia, serif" color="#6C7A89">Designed with intention by <b>Quisha Amanda Modequillo</b></font></sub>
+        </p>
+
+      </div>
+
+    </td>
+  </tr>
+</table>
