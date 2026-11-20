@@ -47,14 +47,16 @@
       <h4><a href="./Activity%201%3A%20Presentation%20Design%20Principles/"><font color="#2B2825">Activity 1</font></a></h4>
       <p><font color="#6B5B4E"><b>Presentation Design Principles</b></font></p>
       <hr color="#E0D5C7" size="1" />
-      <p><font color="#554E48">Focuses on fundamental design principles—proper layout, color theory, typography, visual hierarchy, and structured organization to communicate information effectively. I learned that a poster should not look "overstimulating" and should be direct with all the details that the audience needs to know. </font></p>
+      <p><font color="#554E48">Focuses on fundamental design principles—proper layout, color theory, typography, visual hierarchy, and structured organization to communicate information effectively.</font></p>
+      <p><font color="#554E48"> I learned that a poster should not look "overstimulating" and should be direct, including all the details the audience needs to know. No challenges were encountered, as I loved the activity and had fun looking for inspos! </font></p>
     </td>
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>02</b></font></sub></p>
       <h4><a href="./Activity%202%3A%20Personal%20Branding/"><font color="#2B2825">Activity 2</font></a></h4>
       <p><font color="#6B5B4E"><b>Personal Branding</b></font></p>
       <hr color="#E0D5C7" size="1" />
-      <p><font color="#554E48">Explores personal brand identity by evaluating strengths, skills, values, and visual style to build an authentic professional presence. This was my favorite activity wherein I rebranded my digital product business, and I liked it more. I learned that what looks pleasing and neat to the eye doesn't need a lot of colors for your branding. </font></p>
+      <p><font color="#554E48">Explores personal brand identity by evaluating strengths, skills, values, and visual style to build an authentic professional presence.</font></p>
+      <p><font color="#554E48">I learned that what looks pleasing and neat to the eye doesn't need a lot of colors for your branding. One of the challenges I encountered was confusion about which color really matches my brand; however, perfectionism doesn't go very far. I almost spent an entire day on this with very slow progress! </font></p>
     </td>
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>03</b></font></sub></p>
@@ -122,10 +124,10 @@
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>07</b></font></sub></p>
       <h4><font color="#2B2825">Activity 7</font></h4>
-      <p><b>Activity Title</b></p>
+      <p><b>Resume Generating</b></p>
       <hr color="#E0D5C7" size="1" />
-      <p>Activity description goes here.</p>
-      <p><b>What I Learned:</b> Reflection goes here.</p>
+      <p>This activity focused on creating a professional resume using at least two artificial intelligence tools. It aimed to explore how AI can assist in organizing personal information, improving written content, and presenting educational qualifications, skills, and work experiences in a professional format.</p>
+      <p><b>Through this activity, I learned how AI tools can help create professional resumes by organizing skills, education, and work experience. However, I realized that AI-generated content must be reviewed to ensure accuracy and authenticity. This activity showed me how AI can support career preparation. After graduation, I plan to use Claude AI to further improve my resume when applying for nursing positions.</p>
     </td>
   </tr>
 </table>
