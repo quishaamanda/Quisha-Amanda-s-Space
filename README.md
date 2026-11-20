@@ -81,12 +81,17 @@
     <th align="left" style="padding: 10px;">
       <font color="#4A3E35" size="3">&nbsp; ✦ MIDTERMS</font>
     </th>
+ 
   </tr>
-<h4><a href="./Midterms Laboratory Exam/README.md"><font color="#2B2825">Midterms Laboratory Exam</font></a></h4>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#FAF7F2">
+      <h4><a href="./Midterms%20Laboratory%20Exam/"><font color="#2B2825">Midterms Laboratory Exam</font></a></h4>
+
 <p><font color="#6B5B4E"><em>Practical Application & Assessment</em></font></p>
 <hr color="#E0D5C7" size="1" />
 <p><font color="#554E48">A comprehensive examination evaluating practical design workflow, technical execution, and synthesized application of digital design concepts.</font></p>
-      <p><font color="#554E48">I learned that all of us have to go back to basics to know more about Google Workspace. Google Workspace is so convenient for group works! </font></p>
+<p><font color="#554E48">I learned that we need to revisit the basics of Google Workspace. These tools are convenient for organizing information and collaborating on group projects.</font></p>
+
     </td>
   </tr>
 </table>
