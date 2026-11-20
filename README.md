@@ -82,7 +82,8 @@
       <font color="#4A3E35" size="3">&nbsp; ✦ MIDTERMS</font>
     </th>
   </tr>
-  <tr>
+<h4><a href="./Midterms Laboratory Exam/README.md"><font color="#2B2825">Midterms Laboratory Exam</font></a></h4>
+
     <td width="100%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>04</b></font></sub></p>
 <h4><a href="./CLASS%20EVENT%20PROPOSAL%20WITH%20SHEETS.pdf"> <font color="#2B2825">Midterms Laboratory Exam</font></a></h4>
