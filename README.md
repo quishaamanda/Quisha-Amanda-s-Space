@@ -91,8 +91,6 @@
 <hr color="#E0D5C7" size="1" />
 <p><font color="#554E48">A comprehensive examination evaluating practical design workflow, technical execution, and synthesized application of digital design concepts.</font></p>
 <p><font color="#554E48">I learned that we need to revisit the basics of Google Workspace. These tools are convenient for organizing information and collaborating on group projects.</font></p>
-
-    </td>
   </tr>
 </table>
 
