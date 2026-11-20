@@ -94,6 +94,44 @@
 
 <br />
 
+<!-- PREFINALS SECTION -->
+
+<table width="100%">
+  <tr bgcolor="#E8DFD5">
+    <th colspan="3" align="left" style="padding: 10px;">
+      <font color="#4A3E35" size="3">&nbsp; ✦ PREFINALS</font>
+    </th>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" bgcolor="#FAF7F2">
+      <p><sub><font color="#A68A68"><b>05</b></font></sub></p>
+      <h4><font color="#2B2825">Activity 5</font></h4>
+      <p><b>Activity Title</b></p>
+      <hr color="#E0D5C7" size="1" />
+      <p>Activity description goes here.</p>
+      <p><b>What I Learned:</b> Reflection goes here.</p>
+    </td>
+    <td width="33%" valign="top" bgcolor="#FAF7F2">
+      <p><sub><font color="#A68A68"><b>06</b></font></sub></p>
+      <h4><font color="#2B2825">Activity 6</font></h4>
+      <p><b>Activity Title</b></p>
+      <hr color="#E0D5C7" size="1" />
+      <p>Activity description goes here.</p>
+      <p><b>What I Learned:</b> Reflection goes here.</p>
+    </td>
+    <td width="33%" valign="top" bgcolor="#FAF7F2">
+      <p><sub><font color="#A68A68"><b>07</b></font></sub></p>
+      <h4><font color="#2B2825">Activity 7</font></h4>
+      <p><b>Activity Title</b></p>
+      <hr color="#E0D5C7" size="1" />
+      <p>Activity description goes here.</p>
+      <p><b>What I Learned:</b> Reflection goes here.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
 
   <p><sub><font color="#8C7A6B">DESIGN TOOLS & PLATFORMS</font></sub></p>
