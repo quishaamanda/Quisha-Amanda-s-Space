@@ -61,8 +61,8 @@
      <h4><a href="./Activity%203%3A%20Social%20Media%20Infographics%20%26%20Project%20Documentation/"><font color="#2B2825">Activity 3</font></a></h4>
       <p><font color="#6B5B4E"><b>Social Media Infographics & Project Documentation</b></font></p>
       <hr color="#E0D5C7" size="1" />
-      <p><font color="#554E48">Creation of informative, visually engaging social media infographics alongside complete project documentation from initial concept to final execution. I learned that the purpose of an infographic is to inform people about your proposal and what your app is all about. I needed to choose colors that looks easy to read, and I needed to make sure that the design is organized.</font></p>
-    </td>
+      <p><font color="#554E48">Creation of informative, visually engaging social media infographics alongside complete project documentation from initial concept to final execution. </font></p> 
+      <p><font color="#554E48">I learned that the purpose of an infographic is to inform people about your proposal and what your app is all about. I needed to choose colors that looks easy to read, and I needed to make sure that the design is organized.</font></p>
   </tr>
 </table>
 
@@ -87,7 +87,7 @@
 <p><font color="#6B5B4E"><em>Practical Application & Assessment</em></font></p>
 <hr color="#E0D5C7" size="1" />
 <p><font color="#554E48">A comprehensive examination evaluating practical design workflow, technical execution, and synthesized application of digital design concepts.</font></p>
-      <p><font color="#554E48">A comprehensive examination evaluating practical design workflow, technical execution, and synthesized application of digital design concepts.</font></p>
+      <p><font color="#554E48">I learned that all of us have to go back to basics to know more about Google Workspace. Google Workspace is so convenient for group works! </font></p>
     </td>
   </tr>
 </table>
