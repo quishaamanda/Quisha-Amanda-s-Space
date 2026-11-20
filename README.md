@@ -108,18 +108,18 @@
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>05</b></font></sub></p>
       <h4><font color="#2B2825">Activity 5</font></h4>
-      <p><b>Activity Title</b></p>
+      <p><b>AI Tools Activity</b></p>
       <hr color="#E0D5C7" size="1" />
-      <p>Activity description goes here.</p>
-      <p><b>What I Learned:</b> Reflection goes here.</p>
+      <p>This activity focused on exploring the use of artificial intelligence (AI) tools and understanding the importance of creating clear, detailed, and specific prompts to generate accurate and desirable results.</p>
+      <p><font color="#554E48"> I learned that detailed prompts help AI generate better results. Although I missed the activity, I sought guidance from my classmates. I can apply these skills to improve productivity and creativity in my future career.</font></p>
     </td>
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>06</b></font></sub></p>
       <h4><font color="#2B2825">Activity 6</font></h4>
-      <p><b>Activity Title</b></p>
+      <p><b>Making a Website</b></p>
       <hr color="#E0D5C7" size="1" />
-      <p>Activity description goes here.</p>
-      <p><b>What I Learned:</b> Reflection goes here.</p>
+      <p>This activity involved creating a website that represents and highlights a personal or business brand using AI-powered website development tools. The goal was to develop a visually appealing and functional website that reflects the brand's identity through appropriate colors, typography, layout, and content.</p>
+      <p><font color="#554E48"> I learned that AI can simplify website creation, but detailed prompts are essential for achieving the desired design. I struggled with Replit, so I switched to Base44, which better suited my needs. I can apply these skills to promote my digital products and potentially increase sales.</font></p>
     </td>
     <td width="33%" valign="top" bgcolor="#FAF7F2">
       <p><sub><font color="#A68A68"><b>07</b></font></sub></p>
