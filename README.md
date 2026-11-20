@@ -27,7 +27,7 @@
   <tr>
     <td bgcolor="#FAF7F2" style="padding: 20px; border-left: 4px solid #A68A68;">
       <h3><font color="#6B5B4E">── ✧ About Me</font></h3>
-      <p><font color="#4A443F">Hello! My name is <b>Quisha Amanda Modequillo</b>. I am a student who is passionate about learning, creativity, and digital design. This repository contains a curated collection of activities and projects that showcase my knowledge and skills in presentation design, personal branding, and creating visual content.</font></p>
+      <p><font color="#4A443F">Hello! My name is <b>Quisha Amanda Modequillo</b>. I am a student who is passionate about learning, creativity, and digital design. This repository contains a curated collection of activities and projects showcasing my knowledge and skills in presentation design, personal branding, and visual content creation.</font></p>
       <p><font color="#4A443F">Through these activities, I explore clean, effective, and visually compelling ways of communicating ideas using various digital tools and design frameworks.</font></p>
     </td>
   </tr>
@@ -127,7 +127,7 @@
       <p><b>Resume Generating</b></p>
       <hr color="#E0D5C7" size="1" />
       <p>This activity focused on creating a professional resume using at least two artificial intelligence tools. It aimed to explore how AI can assist in organizing personal information, improving written content, and presenting educational qualifications, skills, and work experiences in a professional format.</p>
-      <p><b>Through this activity, I learned how AI tools can help create professional resumes by organizing skills, education, and work experience. However, I realized that AI-generated content must be reviewed to ensure accuracy and authenticity. This activity showed me how AI can support career preparation. After graduation, I plan to use Claude AI to further improve my resume when applying for nursing positions.</p>
+      <p><font color="#554E48"> Through this activity, I learned how AI tools can help create professional resumes by organizing skills, education, and work experience. However, I realized that AI-generated content must be reviewed to ensure accuracy and authenticity. This activity showed me how AI can support career preparation. After graduation, I plan to use Claude AI to further improve my resume when applying for nursing positions. </font></p>
     </td>
   </tr>
 </table>
